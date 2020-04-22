@@ -1,7 +1,9 @@
 # yelp-fusion
 [![npm version](https://badge.fury.io/js/yelp-fusion.svg)](https://badge.fury.io/js/yelp-fusion) [![Build Status](https://travis-ci.org/tonybadguy/yelp-fusion.svg?branch=master)](https://travis-ci.org/tonybadguy/yelp-fusion) [![codecov](https://codecov.io/gh/tonybadguy/yelp-fusion/branch/master/graph/badge.svg)](https://codecov.io/gh/tonybadguy/yelp-fusion) 
 
-Yelp Fusion API client for Node.js with Promises
+Yelp Fusion API client for Node.js with Promises.
+
+This fork modifies the original code to support optional yelp locale codes with each request.
 
 Please refer to official Yelp documentation for request / response model details:
 https://www.yelp.com/developers/documentation/v3
